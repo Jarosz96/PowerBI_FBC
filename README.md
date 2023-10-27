@@ -7,7 +7,7 @@ This repository contains a PowerBI project about sales and HR. It was created fo
 - `DE23_Sebastian_Jarosz_FBC.pbix`: This PowerBI file contains the visualizations and reports.
 - `ColorPallets_FBC.png`: Coloring scheme for this project.
 - `Background_FBC.pptx`: Backgrounds for this project.
-- `ReportPreview_FBC.pdf`: Backgrounds for this project.
+- `ReportPreview_FBC.pdf`: Static preview for this project.
 
 ## Getting Started
 
